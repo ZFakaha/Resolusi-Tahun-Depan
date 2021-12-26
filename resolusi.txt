@@ -3,3 +3,5 @@ Resolusi tahun depan
 -Belajar Web Programming
 -Belajar syber security
 -Belajar jaringan
+*melalui AMCC
+-Belajar backend
