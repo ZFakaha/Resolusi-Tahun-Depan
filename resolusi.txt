@@ -1,7 +1,0 @@
-Resolusi tahun depan
--Konsisten belajar C++
--Belajar Web Programming
--Belajar syber security
--Belajar jaringan
-*melalui AMCC
--Belajar backend
